@@ -1,4 +1,4 @@
-$Landing Page da Tela de Login do League of Legends
+# Landing Page da Tela de Login do League of Legends
 Este projeto é uma landing page simples para a tela de login do jogo "League of Legends". A página foi desenvolvida com HTML, CSS e JavaScript e tem como objetivo replicar a interface de login do jogo. [Clique aqui para visualizar o projeto](https://league-of-legends-landing-page.netlify.app/)
 
 ## Como utilizar
